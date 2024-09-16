@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord-giveaways": "^6.0.1",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "googleapis": "^143.0.0",
+    "youtube-search-api": "^1.2.2",
+    "ytdl-core": "^4.11.5"
+  },
+  "name": "new-folder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
